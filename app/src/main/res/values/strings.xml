@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Room_Library</string>
+    <string name="Hint_name">Enter Name</string>
+    <string name="Button_name">Save</string>
+    <string name="Empty">Enter the info</string>
+    <string name="newt">HEHE</string>
+</resources>
